@@ -1,0 +1,16 @@
+.footer-heading,
+.footer-paraghraph {
+    color: white;
+}
+
+.footer-heading {
+    text-align: center;
+}
+
+.footer-paraghraph {
+    text-align: center;
+}
+
+footer-hr {
+    border: 2px solid white;
+}

@@ -1,0 +1,31 @@
+img {
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.form {
+    background-color: darkslategray;
+    padding: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+input,
+button {
+    margin: 6px 0;
+}
+
+.button {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: lightgreen
+}
+
+.row {
+    background-color: lightgreen
+}

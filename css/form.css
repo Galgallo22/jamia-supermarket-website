@@ -1,0 +1,15 @@
+form {
+    background-color: darkgreen;
+}
+
+input,
+textarea,
+button {
+    margin: 8px 0;
+}
+
+.button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
